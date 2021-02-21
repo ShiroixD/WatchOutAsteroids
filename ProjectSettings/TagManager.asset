@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trashcan
+  - Shield
+  - Ground
+  - Asteroid
+  - Building
+  - ShieldBar
+  - EarthBar
+  - ArrowTrash
+  - AstreoidSpawner
+  - ArrowShieldAdvice
+  - LifeInfo
+  - Info
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Asteroids
+  - Destructable
+  - Player
+  - SpecialAsteroids
+  - BackgroundBuilding
+  - BashedAsteroids
+  - Shield
+  - Building
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2687258081
+    locked: 0
+  - name: Walls
+    uniqueID: 3272406015
+    locked: 0
+  - name: Environment
+    uniqueID: 512141839
+    locked: 0
+  - name: Asteroids
+    uniqueID: 3676978483
+    locked: 0
+  - name: Bridge
+    uniqueID: 4179136013
+    locked: 0
+  - name: Player
+    uniqueID: 256269935
+    locked: 0
+  - name: Shield
+    uniqueID: 965981747
+    locked: 0
+  - name: Arrows
+    uniqueID: 2210974571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
