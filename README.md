@@ -11,8 +11,8 @@ Platform: **PC, Windows**
 
 My share:
 
-    - Designed and programmed **bonuses** with their simple **animations**.
-    - Created **ability** allowing **placing trampoline** (used in **destroying** asteroids and **jumping** high)
+    - Designed and programmed bonuses with their simple animations.
+    - Created ability allowing placing trampoline (used in destroying asteroids and jumping high)
 
 
 Controls (keybord + mouse):
