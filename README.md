@@ -1,16 +1,18 @@
 # Watch Out Asteroids
 **Watch Out Asteroids** is a **survival** game where you become a dustman **protecting Earth** from danger. Jump, climb buildings and move quickly to **destroy** falling **asteroids**!
 
-Website: watchoutasteroids.herokuapp.com
+Website: fabianfrontczak.com/watch-out-asteroids/
 
-Game engine: Unity 2D
+Download: drive.google.com/file/d/1tN2QE4ZhE4YLA50nwl_sPRbSQOehdbCR/view
 
-Platform: PC, Windows
+Game engine: **Unity 2D**
+
+Platform: **PC, Windows**
 
 My share:
 
-    - Designed and programmed bonuses with their simple animations.
-    - Created ability allowing placing trampoline (used in destroying asteroids and jumping high)
+    - Designed and programmed **bonuses** with their simple **animations**.
+    - Created **ability** allowing **placing trampoline** (used in **destroying** asteroids and **jumping** high)
 
 
 Controls (keybord + mouse):
@@ -24,7 +26,6 @@ Controls (keybord + mouse):
     N – deactivate trampoline skill
 
 Credits:
-
 
     - Kacper Hałuszczak
     - Michał Chudzik
