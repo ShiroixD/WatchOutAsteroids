@@ -1,9 +1,9 @@
 # Watch Out Asteroids
 **Watch Out Asteroids** is a **survival** game where you become a dustman **protecting Earth** from danger. Jump, climb buildings and move quickly to **destroy** falling **asteroids**!
 
-Website: fabianfrontczak.com/watch-out-asteroids/
+Website: http://fabianfrontczak.com/watch-out-asteroids/
 
-Download: drive.google.com/file/d/1tN2QE4ZhE4YLA50nwl_sPRbSQOehdbCR/view
+Download: https://drive.google.com/file/d/1tN2QE4ZhE4YLA50nwl_sPRbSQOehdbCR/view?usp=sharing
 
 Game engine: **Unity 2D**
 
